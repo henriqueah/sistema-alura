@@ -8,3 +8,6 @@ node app.js
 ```
 :)
 -- testse sincronização remota
+
+-- observação vscode
+
